@@ -1,6 +1,6 @@
 # LED_ROS
 
-this program is used to that turn on, turn off and blink LED.
+This program is used to that turn on, turn off and blink LED.
 For this you need a Raspberry Pi3, LEDs, resistences, jumpwires, a breadboard.
 
 ## Electric circuit
