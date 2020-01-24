@@ -11,14 +11,24 @@ Pins used this time is GPIO 2, GPIO 24 and Ground.
 ## Usage
 ```bash
 roscore
-```
-```bash
 rosrun mypkg count.py
-```
-```bash
 rosrun mypkg twice.py
 ```
-
+Input 1, red LED will light for 2s, and than be off.
+```bash
+please input:1
+output is:1
+```
+Input 2, yellow LED will light for 2s, and than be off.
+```bash
+please input:2
+output is:2
+```
+Input 3, red led and yellow LED will light alternately light 5 times.
+```bash
+please input:3
+output is:3
+```
 ## License
 BSD
 
